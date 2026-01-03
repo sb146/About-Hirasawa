@@ -23,3 +23,4 @@ Solo后期专辑翻译都会带有导读用于描述曲目在专辑里扮演的�
 - [ ] 其他
 
 ## Discord
+https://discord.gg/WY4VD3SW7U
