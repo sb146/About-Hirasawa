@@ -262,7 +262,7 @@ Holy Delay 从彼方而来
 Holy Delay 彼方から来る  
 Holy Delay 从彼方而来  
   
-# Gemini[^6]  
+# Gemini[^7]  
 いそいで走る夜は 機械の花園まで  
 匆忙奔走之夜中 直到机械的花园  
 心はキミに残し 命が呼び合うまま  
@@ -369,7 +369,7 @@ Day Scanner Day Scanner Day Scanner Day Scanner
 Day Scanner Day Scanner Day Scanner Day Scanner  
   
 # Siam Lights  
-> 你终于找到了她, 但为何她依旧如此遥远  
+> 你终于找到了她, 但她依旧如此遥远  
 > 是时候再一次踏上追寻她的旅途了  
   
 夢の向きから吹くという  
@@ -430,7 +430,7 @@ Day Scanner Day Scanner Day Scanner Day Scanner
 你的声音 被藏了起来  
   
 # Mermaid Song  
-> 看着驻足不前的人们, 她在微弱的哭泣着  
+> 人们啊, 她仍在微弱的哭泣着  
 > 不要让她再等待了, 沿着她的声音, 前往她的身边吧  
   
 100度も夢に見る街で 人が立ち止まるよ  
