@@ -8,7 +8,7 @@
 
 ## Roadmap
 - [x] 核P-MODEL
-- [ ] Solo待重置: Siren, Simcity, 贤者的螺旋桨
+- [ ] Solo待重置: Simcity
 - [ ] Solo待翻译: Simcity前的4张
 - [ ] P-MODEL
 - [ ] 其他
