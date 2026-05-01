@@ -8,7 +8,6 @@
 
 ## Roadmap
 - [x] 核P-MODEL
-- [ ] Solo待重置: Simcity
 - [ ] Solo待翻译: Simcity前的4张 (缺失实体专辑歌词, 有意提供照片者可提交PR)
 - [ ] P-MODEL (缺失实体专辑歌词, 有意提供照片者可提交PR)
 - [ ] 其他
